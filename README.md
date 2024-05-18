@@ -12,13 +12,6 @@ Project![Rollcall](Resource/Rollcall.png)
 
 
 
-![Issues](https://img.shields.io/github/issues/Swarnimashukla/Automatic-attendance-management-system)
-![Pull Requests](https://img.shields.io/github/issues-pr/Swarnimashukla/Automatic-attendance-management-system)
-![Forks](https://img.shields.io/github/forks/Swarnimashukla/Automatic-attendance-management-system)
-![Stars](https://img.shields.io/github/stars/Swarnimashukla/Automatic-attendance-management-system)
-[![License](https://img.shields.io/github/license/Swarnimashukla/Automatic-attendance-management-system)](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
-![](https://img.shields.io/github/repo-size/Swarnimashukla/Automatic-attendance-management-system.svg?label=Repo%20size&style=flat-square)&nbsp;
-
 ### Why this project ?
 
 * To automate the traditional attendance marking process
@@ -50,16 +43,6 @@ Project![Rollcall](Resource/Rollcall.png)
 ## Software used
 
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>	<img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>	<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%23%20-%23239120.svg?&style=for-the-badge&logo=OpenCV"/>	<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>	<img alt="Dlib" src="https://img.shields.io/badge/Dlib%20-%2300599C.svg?&style=for-the-badge&logo=Dlib%2B%2B&ogoColor=white"/>
-
-## Contribution Guidelines
-
-* Write clear meaningful git commit messages (Do read [this](https://chris.beams.io/posts/git-commit/)).
-
-* Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.blog/2013-05-14-closing-issues-via-pull-requests/) for more info)
-
-* When you make very very minor changes to a PR of yours (like for example fixing a text in the button, minor changes requested by reviewers) make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at [here](https://davidwalsh.name/squash-commits-git))
-
-* When you're submitting a PR for a UI-related issue, it would be awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
 
 **1.**  Fork [this](https://github.com/Swarnimashukla/Automatic-attendance-management-system) repository.
 
@@ -130,44 +113,6 @@ git push -u origin <your_branch_name>
 
 **14.** Click on `Create Pull Request`.
 
-## GSSoC FAQs
 
-**Q1. Will a beginner, with absolutely no knowledge of github, gain anything fruitful?**
-
-Yeah, definitely. The organization is meant to assist the beginners grow in the field of development. GirlScript have distinct projects appropriate both for beginners as well as the accolades and thereby they will make sure that each and every participant gets to learn something new from the projects he or she is contributing for.
-
-**Q2. Is there any registration fee?**
-
-No, there is no registration fees for participation. It is absolutely free of cost.
-
-**Q3. Any age limit for participation?**
-
-No, there is no age limit for participation in GSSoC. It is open for all.
-
-**Q4. How will we receive the prizes (if won) and certificate?**
-
-GirlScript will be providing all the participants with the digital certificate. The prize money to all the concerned students will be sent to their bank accounts. GirlScript will ask for the bank account details via an email after the conclusion of the event.
-
-**Q5. By what time will the result come?**
-
-The results will be declared in the first week of June
-
-**Q6. Is it strictly for girls or can boys also participate?**
-
-GirlScript aims to assist anyone who is new in the field of development and it specifically supports an inclusive environment. Thereby GSSOC is open both for girls and for boys. Everyone can participate and contribute their part in the development of open source community and our initiative.
-
-**Q7. From where do we need to start being a beginner as of now so as contribute properly in the projects?**
-
-GirlScript will be providing you with the links on their official website to start with Github and various other development to make sure that everyone is able to aptly contribute for the projects.
-
-**Q8. How will participants communicate with mentors and admin?**
-
-All communication will happen on the Discord channel for this project.
-
-**Q9. How will I know that I am selected?**
-
-The participants will be notified through email and an invite to the Discord channel will be sent to them.
-
-**Q10. What is the criterion for selection as a participant?**
 
 This program is for beginners to get started with open source. The only criterion for selection are your dedication and enthusiasm to contribute to open source.
