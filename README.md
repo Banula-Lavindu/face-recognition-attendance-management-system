@@ -25,8 +25,6 @@ Project![Rollcall](Resource/Rollcall.png)
 * To help government officials keep track of education structure
 * To create a better learning environment and improve the education system 
 
-# Award Winning idea :✨🏆✨
-![Dreambig championship](Resource/Winner.jpeg)
 
 ### Functionalities 
 
